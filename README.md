@@ -1,6 +1,6 @@
 # BrainFucked
 
-<img src="https://github.com/Yagi-404/BrainFucked/blob/master/brainfucked.svg" alt="Temp brainfucked logo" width="100" hieght="100"/>
+<img src="https://github.com/Yagi-404/BrainFucked/blob/master/brainfucked.svg" alt="BrainFucked" width="100" height="100"/>
 
 # ⚡ IMPORTANT ⚡
 
