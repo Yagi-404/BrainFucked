@@ -7,14 +7,16 @@ ANYWAYS, PULL REQUEST ARE WELCOME ! 😝
 
 ## Using: Quick start
 
-1) Create a file a name it `filename.bfed`.
+1. Create a file a name it `filename.bfed`.
   You can type in the terminal :
   ```sh
   $ touch <FILENAME>.bfed
   ```
   The program verifies the extension. Why ? Beacause it's BrainFucked ! If the extension isn't `.bfed` compiler will return an error.
-2) Write your program. It's recommended to have a main file or a starting point for the program. Else imports may not work correctly...
-3) Compile it ! How ? By typing :
+  
+2. Write your program. It's recommended to have a main file or a starting point for the program. Else imports may not work correctly...
+ 
+3. Compile it ! How ? By typing :
   ```sh
   $ bfed <FILENAME>.bfed
   ```
