@@ -1,11 +1,8 @@
 # BrainFucked
 
+<!-- A temp logo to make better looking README -->
+
 <img src="https://github.com/Yagi-404/BrainFucked/blob/master/brainfucked.svg" alt="BrainFucked" width="150" height="100"/>
-
-# ⚡ IMPORTANT ⚡
-
-AT THE TIME THE PROJECT IS NOT EVEN AN ALPHA SO I KNOW I DON'T WORK. SO PLEASE DO NOT REPORT BUG OR ISSUE FOR THE MOMENT.
-ANYWAYS, PULL REQUEST ARE WELCOME ! 😝
 
 ## Using: Quick start
 
